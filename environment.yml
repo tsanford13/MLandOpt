@@ -1,0 +1,8 @@
+name: GloVe_Project_ML_Opt_2020
+channels:
+ - defaults
+dependencies:
+ - matplotlib
+ - python=3.6
+ - numpy=1.19
+ - ipykernel
