@@ -1,0 +1,8 @@
+[
+    {"Model": "glove.6B.50d", "Test": "L04 [meronyms - substance]", "Total Correct": 10, "Total Attempted": 100}, 
+    {"Model": "glove.6B.50d", "Test": "L05 [meronyms - substance]", "Total Correct": 50, "Total Attempted": 100}, 
+    {"Model": "glove.6B.50d", "Test": "L03 [meronyms - substance]", "Total Correct": 10, "Total Attempted": 100}, 
+    {"Model": "glove.3B.50d", "Test": "L05 [meronyms - substance]", "Total Correct": 10, "Total Attempted": 100},
+    {"Model": "glove.3B.50d", "Test": "L03 [meronyms - substance]", "Total Correct": 20, "Total Attempted": 100},
+    {"Model": "glove.3B.50d", "Test": "L04 [meronyms - substance]", "Total Correct": 30, "Total Attempted": 100}
+]
