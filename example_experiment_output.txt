@@ -1,0 +1,1 @@
+[{"Model": "glove.6B.50d", "Test": "L04 [meronyms - substance]", "Total Correct": 10, "Total Attempted": 100}, {"Model": "glove.6B.50d", "Test": "L05 [meronyms - substance]", "Total Correct": 10, "Total Attempted": 100}]
