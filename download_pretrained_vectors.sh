@@ -1,6 +1,9 @@
 #!/bin/bash
 
-mkdir -p Pretrained_Vectors
+mkdir Pretrained_Vectors
+
+cp urls.txt ./Pretrained_Vectors
+
 cd Pretrained_Vectors
 
 while read url; do

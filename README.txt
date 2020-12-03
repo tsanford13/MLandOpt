@@ -41,7 +41,7 @@ The script will download all of the vectors used for the experiments as zip file
 are not downloaded because they are extremely large and were not used for any of our experiments (we tried but didn't have enough RAM and our program is dependent on being able to fit the entire embedding matrix in RAM with enough room left to construct analogy matrices.) 
 
 
-
+If for any reason the above methods don't work then as a workaround you can manually download the pretrained vectors from https://nlp.stanford.edu/projects/glove/ and then unzip them and manually save them in a directory called "Pretrained_Vectors" located in the root directory of the repository. 
 GENERAL NOTES:
 
 Our experimental results are saved in JSON format in the directory "Experimental_Results." If you don't want to recreate the results from scratch then you can use the create_graphics.ipynb notebook to recreate the graphs stored in the Experimental_Results_Graphs directory. Also the original results are stored in JSON format in the Experimental_Results directory and can be easily loaded and analyzed using a jupyter notebook. 
